@@ -6,11 +6,11 @@ There will be a module added that will allow for updates to be automatically che
 
 # License
 ***
-For this project, I am using an MIT license which will allow users to use everything in this repository for anything they would like. Even if the code that users use is part of software in this repository.
+This project is licensed under the terms of the MIT license. 
 
 # Contributors
 ***
 The people contributing to this repository will be my group members:
 
-    Issac Olmedo
+    Daniel Bird
     Connor Aiton
